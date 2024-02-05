@@ -85,6 +85,7 @@ a{
 #gordo{
     height: auto;
     text-align: right;
+    width: 300px;
 }
 #gordo img{
     margin-right: 10px;
