@@ -85,12 +85,11 @@ a{
 }
 #gordo{
     height: auto;
+    text-align: right;
 }
 #gordo img{
     margin-right: 10px;
     border-radius: 25px;
-    justify-content: right;
-    align-items: left;
 }
 #saiba{
     background-color: #999;
